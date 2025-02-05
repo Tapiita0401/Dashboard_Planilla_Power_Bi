@@ -17,6 +17,16 @@ Secciones del Dashboard:
 - Cantidad de Empleados por Sexo: Este gráfico circular muestra la distribución de los empleados por género, lo que puede ser útil para analizar la equidad de género en la empresa.
 - Horas Extra por Sexo: Este gráfico (aunque no se muestra en la imagen proporcionada) probablemente muestra la cantidad de horas extras trabajadas por cada género, lo que permite identificar posibles disparidades en la carga de trabajo.
 
+# Distribución de horas VERY SAC
+
 ![alt text](image-1.png)
 
+Esta parte se enfoca en la distribución de horas trabajadas, proporcionando una perspectiva complementaria al dashboard anterior que se centraba en los salarios.
+
+- %TG Pago hora por Empleado: Similar al dashboard anterior, esta sección muestra el porcentaje de la planilla total que representa el pago por hora de cada empleado, pero ahora enfocado en el pago por hora en lugar del sueldo mensual.
+- Pago por hora por Empleado: Este gráfico de líneas muestra la evolución del pago por hora de cada empleado a lo largo del tiempo. Permite identificar aumentos o disminuciones salariales, así como variaciones en el pago por hora entre diferentes empleados.
+- Horas falta por Categoría: Esta sección muestra la cantidad de horas no trabajadas por cada categoría laboral. Puede indicar problemas de asistencia, permisos o falta de carga de trabajo.
+- Horas programadas por sexo y Horas dictadas por sexo: Estas secciones permiten analizar la distribución de las horas trabajadas por género, lo que puede revelar posibles inequidades o desequilibrios en la carga de trabajo.
+
+En ambos, se obtiene una visión más completa de la gestión de recursos humanos en VERY SAC. Esta información es crucial para tomar decisiones estratégicas que permitan optimizar los costos, mejorar la eficiencia y garantizar la equidad en el lugar de trabajo.
 
