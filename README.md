@@ -6,7 +6,7 @@ Este dashboard proporciona una visión general concisa y visual de la informaci�
 
 ![alt text](image.png)
 
-Secciones del Dashboard:
+## Secciones del Dashboard:
 
 - Total de Planilla y Promedio de Sueldo: En la parte superior izquierda, se muestra el costo total de la planilla y el sueldo promedio de los empleados. Estos indicadores generales brindan una visión rápida de la masa salarial de la empresa.
 - Cantidad de Empleados: Esta sección muestra el número total de empleados en la empresa, lo que permite tener una idea del tamaño de la plantilla.
